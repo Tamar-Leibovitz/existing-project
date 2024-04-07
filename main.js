@@ -1,0 +1,2 @@
+
+alert("in main.js")
