@@ -3,9 +3,10 @@ const a1 = ()=>{
 }
 
 const a2 = ()=>{
-    alert("main")
+  alert("feature-2")
+  alert("main")
 }
 
-const a3 = ()=>{
-    console.log("This is the content of the function:)");
+const a4 = ()=>{
+    console.log("Fixing conflict");
 }
