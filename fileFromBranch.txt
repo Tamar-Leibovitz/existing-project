@@ -1,1 +1,2 @@
 This file ending with txt
+it came from new-feature-1100 branch
