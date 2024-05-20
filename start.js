@@ -6,6 +6,6 @@ const a2 = ()=>{
 
 }
 
-const a3 = ()=>{
-    console.log("This is the content of the function:)");
+const a4 = ()=>{
+    console.log("Doing conflict from feature-2");
 }
